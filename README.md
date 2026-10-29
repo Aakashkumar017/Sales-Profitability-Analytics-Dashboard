@@ -46,6 +46,66 @@ Country-level sales and profit metrics alongside regional and monthly summaries.
 | `Screenshot 2026-10-30 000417.png` | PivotTable analysis view |
 | `Screenshot 2026-10-30 000603.png` | Sales Data Analyzer view |
 
+## Tools & Technologies
+
+- Microsoft Excel
+- Excel Tables and structured references
+- PivotTables and PivotCharts
+- Excel formulas and lookup functions
+- Conditional formatting and data bars
+- KPI reporting and data visualization
+
+## Excel Skills
+
+- **Aggregation:** `SUM`, `SUMIF`, `SUMIFS`, `AVERAGEIFS`
+- **Counting:** `COUNTIF`, `COUNTIFS`
+- **Logical functions:** `IF`, `IFERROR`
+- **Lookup functions:** `XLOOKUP`, `VLOOKUP`, `INDEX-MATCH`
+- **Date functions:** `MONTH`, `YEAR`
+- **Analysis:** `MAX`, monthly performance comparisons, revenue and profitability analysis
+- **Reporting:** KPI summaries, PivotTables, charts, and dashboard design
+
+Only retain functions you have actually used or practiced and can explain during an interview.
+
+## Key Performance Indicators
+
+| KPI | Purpose |
+|---|---|
+| Total Revenue | Measures overall sales value |
+| Gross Profit | Measures profit after the cost of goods sold |
+| Gross Profit Margin | Measures gross profit as a percentage of revenue |
+| Total Units Sold | Measures the volume of products sold |
+
+## Business Insights
+
+The analysis can be used to identify:
+
+- The month with the highest total revenue.
+- The product category contributing the most revenue.
+- Regional differences in revenue and profitability.
+- Customer types contributing the most revenue and units sold.
+- The highest-revenue sales channel.
+- Countries or regions with stronger gross profit margins.
+
+Add the actual values and conclusions from your workbook before publishing these as findings.
+
+## Business Recommendations
+
+Based on the verified results, businesses can:
+
+- Prioritize high-performing product categories and sales channels.
+- Investigate regions with lower revenue or profitability.
+- Monitor monthly trends to support sales planning.
+- Compare customer segments to identify growth opportunities.
+- Track gross profit margin alongside revenue when evaluating performance.
+
+## Key Learnings
+
+- Building KPI-based Excel dashboards.
+- Summarizing data using PivotTables.
+- Applying aggregation and lookup formulas.
+- Comparing sales and profitability metrics.
+- Presenting business performance through charts and reports.
 ## Author
 
 **Aakash Kumar**
